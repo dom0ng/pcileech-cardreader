@@ -22,7 +22,7 @@ https://www.faceit.com/en/players/kemeryx
 This is also detected by drvscan recently.
 Congratulations to Finland and all his innovative way of targetting rogue fpga.
 
-Recently, 3 evaders got banned. 
+Recently, 3 evaders got banned in the latest wawe, they do have used this project. 
 So consider this project as unsafe.
 
 # Donor device 

@@ -17,6 +17,8 @@ This project was created to test current top Anti-Cheats against FPGA approach w
 This demonstration project have flaw on release state.
 Otherwise, it got pefectly abused for more than 115 days+ on all anti-fun platform (except VGK).
 
+https://www.faceit.com/en/players/kemeryx
+
 This is also detected by drvscan recently.
 Congratulations to Finland and all his innovative way of targetting rogue fpga.
 

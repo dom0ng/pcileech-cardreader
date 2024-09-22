@@ -22,6 +22,9 @@ https://www.faceit.com/en/players/kemeryx
 This is also detected by drvscan recently.
 Congratulations to Finland and all his innovative way of targetting rogue fpga.
 
+Recently, 3 evaders got banned. 
+So consider this project as unsafe.
+
 # Donor device 
 
 https://www.amazon.fr/dp/B077NF33TX

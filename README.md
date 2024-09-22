@@ -19,7 +19,7 @@ Otherwise, it got pefectly abused for more than 115 days+ on all anti-fun platfo
 
 https://www.faceit.com/en/players/kemeryx
 
-This is also detected by drvscan recently.
+This is also detected by drvscan : https://github.com/ekknod/drvscan recently.
 Congratulations to Finland and all his innovative way of targetting rogue fpga.
 
 Recently, 3 randoms guys got banned in the latest wawe, they do have used this project. 

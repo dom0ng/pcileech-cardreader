@@ -19,6 +19,8 @@ Otherwise, it got pefectly abused for more than 115 days+ on all anti-fun platfo
 
 https://www.faceit.com/en/players/kemeryx
 
+Update : Account deleted by the platform for 'malicious activity'
+
 This is also detected by drvscan : https://github.com/ekknod/drvscan recently.
 Congratulations to Finland and all his innovative way of targetting rogue fpga.
 

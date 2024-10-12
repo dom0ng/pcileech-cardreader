@@ -116,13 +116,13 @@ module pcie_7x_0_core_top # (
   parameter         DISABLE_SCRAMBLING = "FALSE",
   parameter [11:0]  DSN_BASE_PTR = 12'h100,
   parameter [11:0]  DSN_CAP_NEXTPTR = 12'h000,
-  parameter         DSN_CAP_ON = "TRUE",
+  parameter         DSN_CAP_ON = "FALSE",
 
   parameter [10:0]  ENABLE_MSG_ROUTE = 11'b00000000000,
   parameter         ENABLE_RX_TD_ECRC_TRIM = "FALSE",
   parameter [31:0]  EXPANSION_ROM = 32'h00000000,
-  parameter [5:0]   EXT_CFG_CAP_PTR = 6'h3F,
-  parameter [9:0]   EXT_CFG_XP_CAP_PTR = 10'h3FF,
+  parameter [5:0]   EXT_CFG_CAP_PTR = 6'h2A,
+  parameter [9:0]   EXT_CFG_XP_CAP_PTR = 10'h2A,
   parameter [7:0]   HEADER_TYPE = 8'h00,
   parameter [7:0]   INTERRUPT_PIN = 8'h1,
 

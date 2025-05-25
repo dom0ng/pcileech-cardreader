@@ -22,7 +22,10 @@ Update : Account deleted by the platform for 'malicious activity'.
 
 Recently, 3 randoms guys got banned in the latest wawe, they do have used this project. 
 
-So consider this project as unsafe.
+So consider this project as unsafe and outdated.
+
+
+EAC have catch up and are very similar to top tier anti-cheats. It will still work on specific AMD motherboard (no idea wwhy, or :D)
 
 # Donor device 
 
